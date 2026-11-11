@@ -1,0 +1,10 @@
+.venv/
+.data/
+.pytest_cache/
+__pycache__/
+*.pyc
+tools/
+vendor/
+.env
+# Raw public-page diagnostics can contain transient share and visitor identifiers.
+docs/user-public-page-test.json

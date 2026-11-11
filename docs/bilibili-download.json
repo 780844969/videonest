@@ -1,0 +1,15 @@
+{
+  "platform": "bilibili",
+  "url": "https://www.bilibili.com/video/BV13x41117TL",
+  "selected": "360P",
+  "result": {
+    "event": "result",
+    "result": {
+      "filename": "media.mp4",
+      "download_name": "阿滴英文｜英文歌分享#6 _Closer.mp4",
+      "size": 38026157
+    }
+  },
+  "download_events": 38,
+  "decode_valid": true
+}

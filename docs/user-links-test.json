@@ -1,0 +1,101 @@
+[
+  {
+    "platform": "bilibili",
+    "url": "https://www.bilibili.com/video/BV1nepu6nENE/?share_source=copy_web",
+    "title": "从零用上GPT6+Codex！保姆级注册/安装/使用/订阅教程，以及各种疑难杂症解决方法！",
+    "duration": 500.01,
+    "choices": [
+      {
+        "id": "video-0",
+        "label": "1080P",
+        "kind": "video",
+        "ext": "mp4",
+        "size": 33174913
+      },
+      {
+        "id": "video-1",
+        "label": "720P",
+        "kind": "video",
+        "ext": "mp4",
+        "size": 20441470
+      },
+      {
+        "id": "video-2",
+        "label": "480P",
+        "kind": "video",
+        "ext": "mp4",
+        "size": 14913297
+      },
+      {
+        "id": "video-3",
+        "label": "360P",
+        "kind": "video",
+        "ext": "mp4",
+        "size": 12577188
+      },
+      {
+        "id": "audio-mp3",
+        "label": "提取音频",
+        "kind": "audio",
+        "ext": "mp3",
+        "size": null
+      }
+    ],
+    "selected": "360P",
+    "status": "downloaded",
+    "bytes": 12912256,
+    "decode_valid": true
+  },
+  {
+    "platform": "kuaishou",
+    "url": "https://www.kuaishou.com/f/XaF9NbPjATm01Fy",
+    "title": "在一起一辈子吧，迟述99",
+    "duration": 8,
+    "choices": [
+      {
+        "id": "video-0",
+        "label": "原始画质",
+        "kind": "video",
+        "ext": "mp4",
+        "size": null
+      },
+      {
+        "id": "audio-mp3",
+        "label": "提取音频",
+        "kind": "audio",
+        "ext": "mp3",
+        "size": null
+      }
+    ],
+    "selected": "原始画质",
+    "status": "downloaded",
+    "bytes": 1484989,
+    "decode_valid": true
+  },
+  {
+    "platform": "douyin",
+    "url": "https://v.douyin.com/RGqzaFLmCGg/",
+    "title": "全网搬大润发第一人！！！#玩的就是真实",
+    "duration": 291,
+    "choices": [
+      {
+        "id": "video-0",
+        "label": "1080P",
+        "kind": "video",
+        "ext": "mp4",
+        "size": null
+      },
+      {
+        "id": "audio-mp3",
+        "label": "提取音频",
+        "kind": "audio",
+        "ext": "mp3",
+        "size": null
+      }
+    ],
+    "selected": "1080P",
+    "status": "downloaded",
+    "bytes": 112958277,
+    "decode_valid": true
+  }
+]

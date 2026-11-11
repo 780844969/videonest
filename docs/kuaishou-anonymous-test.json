@@ -1,0 +1,28 @@
+[
+  {
+    "platform": "kuaishou",
+    "url": "https://www.kuaishou.com/f/XaF9NbPjATm01Fy",
+    "title": "在一起一辈子吧，迟述99",
+    "duration": 8.4,
+    "choices": [
+      {
+        "id": "video-0",
+        "label": "720P",
+        "kind": "video",
+        "ext": "mp4",
+        "size": 1484989
+      },
+      {
+        "id": "audio-mp3",
+        "label": "提取音频",
+        "kind": "audio",
+        "ext": "mp3",
+        "size": null
+      }
+    ],
+    "selected": "720P",
+    "status": "downloaded",
+    "bytes": 1484989,
+    "decode_valid": true
+  }
+]

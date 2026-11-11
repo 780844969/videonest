@@ -1,0 +1,8 @@
+{
+  "share_url": "https://v.douyin.com/RGqzaFLmCGg/",
+  "resolved_url": "https://www.douyin.com/video/7702053444861454587",
+  "status": "failed",
+  "error_type": "DownloadError",
+  "message": "平台要求有效的访问凭据，当前匿名访问无法解析。请更换公开作品，或稍后重试。",
+  "upstream_error": "ERROR: [Douyin] 7702053444861454587: Fresh cookies (not necessarily logged in) are needed"
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "platform": "bilibili",
+    "url": "https://www.bilibili.com/video/BV13x41117TL",
+    "status": "parsed",
+    "title": "阿滴英文｜英文歌分享#6 \"Closer",
+    "formats": [
+      "1080P",
+      "720P",
+      "480P",
+      "360P",
+      "提取音频"
+    ]
+  },
+  {
+    "platform": "douyin",
+    "url": "https://www.douyin.com/video/6961737553342991651",
+    "status": "blocked",
+    "message": "平台要求有效的访问凭据，当前匿名访问无法解析。请更换公开作品，或稍后重试。",
+    "exit_code": 1
+  },
+  {
+    "platform": "kuaishou",
+    "url": "https://www.kuaishou.com/short-video/3x25msbsnncn8cs",
+    "status": "blocked",
+    "message": "快手未返回公开的视频文件，图集和直播暂不支持。",
+    "exit_code": 1
+  }
+]

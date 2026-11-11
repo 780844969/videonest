@@ -1,0 +1,7 @@
+{
+  "platform": "bilibili",
+  "flow": "browser → API → isolated worker → yt-dlp → merge → attachment",
+  "status": "passed",
+  "filename": "阿滴英文｜英文歌分享#6 _Closer.mp4",
+  "javascript_errors": []
+}
