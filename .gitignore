@@ -6,5 +6,10 @@ __pycache__/
 tools/
 vendor/
 .env
+.env.*
+!.env.example
+cookies*.txt
+*.pem
+*.key
 # Raw public-page diagnostics can contain transient share and visitor identifiers.
 docs/user-public-page-test.json

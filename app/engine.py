@@ -94,7 +94,8 @@ def build_choices(info):
     return choices
 
 def analyze(url, platform, directory):
-    url = resolve_share(url, platform)
+    if platform != 'douyin':
+        url = resolve_share(url, platform)
     if platform == 'kuaishou':
         from .kuaishou import extract
         info = extract(url)
